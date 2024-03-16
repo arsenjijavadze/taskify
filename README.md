@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Hello! This is just a study project. If you're interested in it, here are the original [sources.](https://github.com/piyush-eon/react-typescript-taskify)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
